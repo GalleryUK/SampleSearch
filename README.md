@@ -1,5 +1,5 @@
-# SampleSearch
-SampleSearch was the world's first 'file based' sound effects and sample library search for macOS created in 1992, it became an industry standard in the Music Business and the Film and TV industry during the 1990s
+# Gallery SampleSearch
+Gallery SampleSearch was the world's first 'file based' sound effects and sample library search for macOS created in 1992, it became an industry standard in the Music Business and the Film and TV industry during the 1990s
 
 Prior to SampleSearch, all samples and sound effects libraries were based on audio CDs or CDRoms with some rudimentary databases to search for sounds, followed by the manual process of loading the CD and sampling the sound into your sampler or (later) copying from CD Rom to computer.
 
