@@ -7,6 +7,6 @@ Due to the limited size of Hard Disc storage available at the time SampleSearch 
 
 SampleSearch's wide array of audio (batch) processing tools and the instant waveform selector lead to its use in many of the early 'Multimedia' projects, typically released on CDRom, and early interactive games which contained thousands of audio files, trimmed and processed.  It was also used along with Gallery's VoicePro application on production of one of the first 'speaking dictionary' projects, where every word in the dictionary was recorded by a speaker.
 
-In this repository are binary versions for OS9 for PPC (and perhaps 68k ?) and OSX (for PPC using classic up to OSX 10.4.11). These special versions have had the copy protection removed so they can live in the wild where orphaned old macs still roam.
+In this repository are binary versions for OS9 for PPC (and perhaps 68k ?) and OSX (for PPC using classic up to OSX 10.4.11). These special versions have had the copy protection collars removed so they can live in the wild where orphaned old macs still roam.
 
 Note that these files are here for posterity and no warranties, or any type of support or advice is available, please don't ask.
