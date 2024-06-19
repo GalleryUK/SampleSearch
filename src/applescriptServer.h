@@ -1,0 +1,1 @@
+void	startAppleScript( void );void		AEInit( void );void		AEInstallHandlers( void );pascal OSErr		DoSendDataEvent( AppleEvent *event, AppleEvent *reply, long refcon );void 		DoSendData( Str255  theText);pascal OSErr		DoGetDataEvent( AppleEvent *event, AppleEvent *reply, long refcon );void 		DoGetData( Str255 string );

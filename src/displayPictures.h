@@ -1,0 +1,1 @@
+OSErr displayFileInWindow(FSSpec mySpec);OSErr displayJPEGileInWindow(FSSpec mySpec);Boolean importMovieToDisplayPict(FSSpec mySpec);

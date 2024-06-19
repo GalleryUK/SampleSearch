@@ -1,0 +1,1 @@
+OSErr initDSP(void);OSErr exitDSP(void);OSErr processDSPBuffer(short * theAudio,long bufferSize);

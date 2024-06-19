@@ -1,0 +1,1 @@
+void setUpCursors(void);void removeCursors(void);void setCursor(short setting);#define kWristWatch 99#define kRightCursor 1#define kLeftCursor 2#define kArrowCursor 0

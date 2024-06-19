@@ -1,0 +1,1 @@
+pascal void MyFilePlayCompletionRoutine (SndChannelPtr chan);void AIFCPlay(FSSpec mySpec, short playFreq);
