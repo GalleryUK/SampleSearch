@@ -9,6 +9,6 @@ SampleSearch's wide array of audio (batch) processing tools and the instant wave
 
 In this repository are binary versions for OS9 for PPC (and perhaps 68k ?) and OSX (for PPC using classic up to OSX 10.4.11). These special versions have had the copy protection collars removed so they can live in the wild where orphaned old macs still roam.
 
-You will need a licensed copy of Metrowerks Codewarrior Pro 4 to compile the sources. Don't waste your time with any newer version, since newer versions wont support some of the OS function calls.
+You will need a licensed copy of Metrowerks Codewarrior Pro 4 to compile the sources. Don't waste your time with any newer version, since newer versions wont support some of the OS function calls.  There is a pre-compiled Binary in the folder, ready for OS9 and OSX up to 10.4.11 with a PPC processor.
 
 Note that these files are here for posterity, the source code is not organised or structured, and no warranties, or any type of support or advice is available, please don't ask.
