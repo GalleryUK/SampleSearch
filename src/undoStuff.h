@@ -1,0 +1,1 @@
+#define kNoUndo 0#define kListUndo 1#define kOverviewUndo 2extern FSSpec theBackUpAudioFile;extern Boolean backUpAudioValid;extern FSSpec whatTheBUAudioIsOf;extern Boolean lastOperation;

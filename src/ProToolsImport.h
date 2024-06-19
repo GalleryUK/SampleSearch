@@ -1,0 +1,1 @@
+#define kUnknown 0#define kAIFF 99#define kRAWMotorola 98#define kWAVE 100

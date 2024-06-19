@@ -1,0 +1,1 @@
+Boolean	TrapAvailable(short theTrap);

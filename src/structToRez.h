@@ -1,0 +1,1 @@
+OSErr loadStructureFromResource(FSSpec theFile,Ptr theStructure,long structSize,OSType theResType,short theResID);OSErr saveStructureAsResource(FSSpec theFile,Ptr theStructure,long structSize,OSType theResType,short theResID, Boolean makeOne, OSType fileType);						

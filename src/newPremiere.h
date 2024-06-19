@@ -1,0 +1,1 @@
+void AFM_FindPremierePlugIns(long dirIDToSearch);
